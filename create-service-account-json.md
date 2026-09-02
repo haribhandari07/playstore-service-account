@@ -23,4 +23,13 @@ Here, Create a service account . No need for any Permission or role here
 - A `.json` file downloads — this is the file EAS needs. Save it now; you can create a new key later but can't re-download this exact one.
 
 <img width="1209" height="651" alt="Screenshot 2026-09-02 at 08 00 21" src="https://github.com/user-attachments/assets/0fe0837c-90a2-4a69-a4a7-e2f555dcb06e" />
-  
+
+Also, copy the newly auto created service email address as it's needed in step 5
+
+<img width="1038" height="656" alt="Screenshot 2026-09-02 at 08 18 25" src="https://github.com/user-attachments/assets/30ae3ead-af92-4c9e-aa1b-fc31a99073ff" />
+
+5. Go to play console.  https://play.google.com/console/
+And go to `Users and permisssions`
+
+
+7. 
