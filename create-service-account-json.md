@@ -29,7 +29,11 @@ Also, copy the newly auto created service email address as it's needed in step 5
 <img width="1038" height="656" alt="Screenshot 2026-09-02 at 08 18 25" src="https://github.com/user-attachments/assets/30ae3ead-af92-4c9e-aa1b-fc31a99073ff" />
 
 5. Go to play console.  https://play.google.com/console/
-And go to `Users and permisssions`
+- And go to `Users and permisssions` => Invite User
+- Enter the email address you copied in Step 4.
+- Grant permissions. Use the "Account permissions" tab and check `Admin` for `App Access` and then Invite User
+
+<img width="1506" height="819" alt="Screenshot 2026-09-02 at 21 48 35" src="https://github.com/user-attachments/assets/f398d929-1307-43c2-b841-3e6d7d19e33f" />
 
 
 7. 
